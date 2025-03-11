@@ -1,4 +1,4 @@
-<h1 align="left">Weather Application Project</h1>
+<h2 align="left">About project</h2>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h4 align="left">https://snehaaa-0403.github.io/Weather-application/</h4>
+<p align="left">https://snehaaa-0403.github.io/Weather-application/</p>
 
 ###
 
-<h3 align="left">Technologies used</h3>
+<h4 align="left">Technologies used</h4>
 
 ###
 
